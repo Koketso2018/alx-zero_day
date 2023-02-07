@@ -4,3 +4,4 @@ git push
 git push origin master
 git brach 
 git checkout -b
+git pull
