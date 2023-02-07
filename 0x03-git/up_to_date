@@ -1,0 +1,6 @@
+git add .
+git commit -m
+git push
+git push origin master
+git brach 
+git checkout -b
